@@ -1,11 +1,11 @@
 {
-    "enabled": true,
+    "doxydoc_enabled": true,
 
     // if set to true, the commands will be prefixed with @
     // otherwise they will be prefixed with \
-    "javadoc": false,
+    "doxydoc_javadoc": false,
 
     // the maximum amount of lines to parse to retrieve
     // all the parameters of a function or class
-    "max_lines": 5
+    "doxydoc_max_lines": 5
 }
